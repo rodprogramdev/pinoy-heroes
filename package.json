@@ -1,5 +1,5 @@
 {
-  "name": "pinoy-heroes",
+  "name": "@rodprogramdev/pinoy-heroes",
   "version": "1.0.0",
   "description": "List of pinoy hero names",
   "main": "index.js",
